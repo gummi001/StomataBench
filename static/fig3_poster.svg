@@ -1,0 +1,1699 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1184.88189pt" height="743.58pt" viewBox="0 0 1184.88189 743.58" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-12T21:02:23.934204</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 743.58 
+L 1184.88189 743.58 
+L 1184.88189 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 0 0 
+L 576.240945 0 
+L 576.240945 37.908 
+L 0 37.908 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #f2f2f2"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 0 48.9888 
+L 38.88 48.9888 
+L 38.88 73.4832 
+L 0 73.4832 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #eaf2ff"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 389.7 50.7384 
+L 389.7 50.7384 
+L 389.7 71.7336 
+L 389.7 71.7336 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 389.7 50.7384 
+L 538.980945 50.7384 
+L 538.980945 71.7336 
+L 389.7 71.7336 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 0 78.1488 
+L 38.88 78.1488 
+L 38.88 102.6432 
+L 0 102.6432 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #eaf2ff"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 389.7 79.8984 
+L 429.508252 79.8984 
+L 429.508252 100.8936 
+L 389.7 100.8936 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 429.508252 79.8984 
+L 538.980945 79.8984 
+L 538.980945 100.8936 
+L 429.508252 100.8936 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 0 107.3088 
+L 38.88 107.3088 
+L 38.88 131.8032 
+L 0 131.8032 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #eaf2ff"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 389.7 109.0584 
+L 439.460315 109.0584 
+L 439.460315 130.0536 
+L 389.7 130.0536 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 439.460315 109.0584 
+L 538.980945 109.0584 
+L 538.980945 130.0536 
+L 439.460315 130.0536 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 0 136.4688 
+L 38.88 136.4688 
+L 38.88 160.9632 
+L 0 160.9632 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #eaf2ff"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 389.7 138.2184 
+L 439.460315 138.2184 
+L 439.460315 159.2136 
+L 389.7 159.2136 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 439.460315 138.2184 
+L 538.980945 138.2184 
+L 538.980945 159.2136 
+L 439.460315 159.2136 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 0 165.6288 
+L 38.88 165.6288 
+L 38.88 190.1232 
+L 0 190.1232 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #eaf2ff"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 389.7 167.3784 
+L 479.268567 167.3784 
+L 479.268567 188.3736 
+L 389.7 188.3736 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 479.268567 167.3784 
+L 538.980945 167.3784 
+L 538.980945 188.3736 
+L 479.268567 188.3736 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 0 201.204 
+L 576.240945 201.204 
+L 576.240945 239.112 
+L 0 239.112 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #edf5ff"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 0 250.1928 
+L 38.88 250.1928 
+L 38.88 274.6872 
+L 0 274.6872 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #f1f8e9"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 389.7 251.9424 
+L 419.556189 251.9424 
+L 419.556189 272.9376 
+L 389.7 272.9376 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 419.556189 251.9424 
+L 538.980945 251.9424 
+L 538.980945 272.9376 
+L 419.556189 272.9376 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 0 279.3528 
+L 38.88 279.3528 
+L 38.88 303.8472 
+L 0 303.8472 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #f1f8e9"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 389.7 281.1024 
+L 409.604126 281.1024 
+L 409.604126 302.0976 
+L 389.7 302.0976 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 409.604126 281.1024 
+L 538.980945 281.1024 
+L 538.980945 302.0976 
+L 409.604126 302.0976 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 0 308.5128 
+L 38.88 308.5128 
+L 38.88 333.0072 
+L 0 333.0072 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #f1f8e9"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 389.7 310.2624 
+L 429.508252 310.2624 
+L 429.508252 331.2576 
+L 389.7 331.2576 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 429.508252 310.2624 
+L 538.980945 310.2624 
+L 538.980945 331.2576 
+L 429.508252 331.2576 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 0 337.6728 
+L 38.88 337.6728 
+L 38.88 362.1672 
+L 0 362.1672 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #f1f8e9"/>
+   </g>
+   <g id="patch_29">
+    <path d="M 389.7 339.4224 
+L 538.980945 339.4224 
+L 538.980945 360.4176 
+L 389.7 360.4176 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_30">
+    <path d="M 538.980945 339.4224 
+L 538.980945 339.4224 
+L 538.980945 360.4176 
+L 538.980945 360.4176 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_31">
+    <path d="M 0 366.8328 
+L 38.88 366.8328 
+L 38.88 391.3272 
+L 0 391.3272 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #f1f8e9"/>
+   </g>
+   <g id="patch_32">
+    <path d="M 389.7 368.5824 
+L 459.364441 368.5824 
+L 459.364441 389.5776 
+L 389.7 389.5776 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_33">
+    <path d="M 459.364441 368.5824 
+L 538.980945 368.5824 
+L 538.980945 389.5776 
+L 459.364441 389.5776 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_34">
+    <path d="M 0 395.9928 
+L 38.88 395.9928 
+L 38.88 420.4872 
+L 0 420.4872 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #f1f8e9"/>
+   </g>
+   <g id="patch_35">
+    <path d="M 389.7 397.7424 
+L 469.316504 397.7424 
+L 469.316504 418.7376 
+L 389.7 418.7376 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_36">
+    <path d="M 469.316504 397.7424 
+L 538.980945 397.7424 
+L 538.980945 418.7376 
+L 469.316504 418.7376 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_37">
+    <path d="M 0 425.1528 
+L 38.88 425.1528 
+L 38.88 449.6472 
+L 0 449.6472 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #f1f8e9"/>
+   </g>
+   <g id="patch_38">
+    <path d="M 389.7 426.9024 
+L 399.652063 426.9024 
+L 399.652063 447.8976 
+L 389.7 447.8976 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_39">
+    <path d="M 399.652063 426.9024 
+L 538.980945 426.9024 
+L 538.980945 447.8976 
+L 399.652063 447.8976 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_40">
+    <path d="M 0 454.3128 
+L 38.88 454.3128 
+L 38.88 478.8072 
+L 0 478.8072 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #f1f8e9"/>
+   </g>
+   <g id="patch_41">
+    <path d="M 389.7 456.0624 
+L 519.076819 456.0624 
+L 519.076819 477.0576 
+L 389.7 477.0576 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_42">
+    <path d="M 519.076819 456.0624 
+L 538.980945 456.0624 
+L 538.980945 477.0576 
+L 519.076819 477.0576 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_43">
+    <path d="M 0 483.4728 
+L 38.88 483.4728 
+L 38.88 507.9672 
+L 0 507.9672 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #f1f8e9"/>
+   </g>
+   <g id="patch_44">
+    <path d="M 389.7 485.2224 
+L 409.604126 485.2224 
+L 409.604126 506.2176 
+L 389.7 506.2176 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_45">
+    <path d="M 409.604126 485.2224 
+L 538.980945 485.2224 
+L 538.980945 506.2176 
+L 409.604126 506.2176 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_46">
+    <path d="M 0 512.6328 
+L 38.88 512.6328 
+L 38.88 537.1272 
+L 0 537.1272 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #f1f8e9"/>
+   </g>
+   <g id="patch_47">
+    <path d="M 389.7 514.3824 
+L 419.556189 514.3824 
+L 419.556189 535.3776 
+L 389.7 535.3776 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_48">
+    <path d="M 419.556189 514.3824 
+L 538.980945 514.3824 
+L 538.980945 535.3776 
+L 419.556189 535.3776 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_49">
+    <path d="M 0 541.7928 
+L 38.88 541.7928 
+L 38.88 566.2872 
+L 0 566.2872 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #f1f8e9"/>
+   </g>
+   <g id="patch_50">
+    <path d="M 389.7 543.5424 
+L 469.316504 543.5424 
+L 469.316504 564.5376 
+L 389.7 564.5376 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_51">
+    <path d="M 469.316504 543.5424 
+L 538.980945 543.5424 
+L 538.980945 564.5376 
+L 469.316504 564.5376 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_52">
+    <path d="M 0 570.9528 
+L 38.88 570.9528 
+L 38.88 595.4472 
+L 0 595.4472 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #fff8d6"/>
+   </g>
+   <g id="patch_53">
+    <path d="M 389.7 572.7024 
+L 519.076819 572.7024 
+L 519.076819 593.6976 
+L 389.7 593.6976 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_54">
+    <path d="M 519.076819 572.7024 
+L 538.980945 572.7024 
+L 538.980945 593.6976 
+L 519.076819 593.6976 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_55">
+    <path d="M 0 600.1128 
+L 38.88 600.1128 
+L 38.88 624.6072 
+L 0 624.6072 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #fff8d6"/>
+   </g>
+   <g id="patch_56">
+    <path d="M 389.7 601.8624 
+L 479.268567 601.8624 
+L 479.268567 622.8576 
+L 389.7 622.8576 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_57">
+    <path d="M 479.268567 601.8624 
+L 538.980945 601.8624 
+L 538.980945 622.8576 
+L 479.268567 622.8576 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_58">
+    <path d="M 0 629.2728 
+L 38.88 629.2728 
+L 38.88 653.7672 
+L 0 653.7672 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #ffe8cc"/>
+   </g>
+   <g id="patch_59">
+    <path d="M 389.7 631.0224 
+L 439.460315 631.0224 
+L 439.460315 652.0176 
+L 389.7 652.0176 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_60">
+    <path d="M 439.460315 631.0224 
+L 538.980945 631.0224 
+L 538.980945 652.0176 
+L 439.460315 652.0176 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_61">
+    <path d="M 0 658.4328 
+L 38.88 658.4328 
+L 38.88 682.9272 
+L 0 682.9272 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #fde0dd"/>
+   </g>
+   <g id="patch_62">
+    <path d="M 389.7 660.1824 
+L 519.076819 660.1824 
+L 519.076819 681.1776 
+L 389.7 681.1776 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_63">
+    <path d="M 519.076819 660.1824 
+L 538.980945 660.1824 
+L 538.980945 681.1776 
+L 519.076819 681.1776 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_64">
+    <path d="M 0 687.5928 
+L 38.88 687.5928 
+L 38.88 712.0872 
+L 0 712.0872 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #fde0dd"/>
+   </g>
+   <g id="patch_65">
+    <path d="M 389.7 689.3424 
+L 509.124756 689.3424 
+L 509.124756 710.3376 
+L 389.7 710.3376 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_66">
+    <path d="M 509.124756 689.3424 
+L 538.980945 689.3424 
+L 538.980945 710.3376 
+L 509.124756 710.3376 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_67">
+    <path d="M 0 716.7528 
+L 38.88 716.7528 
+L 38.88 741.2472 
+L 0 741.2472 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #fde0dd"/>
+   </g>
+   <g id="patch_68">
+    <path d="M 389.7 718.5024 
+L 459.364441 718.5024 
+L 459.364441 739.4976 
+L 389.7 739.4976 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_69">
+    <path d="M 459.364441 718.5024 
+L 538.980945 718.5024 
+L 538.980945 739.4976 
+L 459.364441 739.4976 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_70">
+    <path d="M 608.640945 0 
+L 1184.88189 0 
+L 1184.88189 37.908 
+L 608.640945 37.908 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #fff0e0"/>
+   </g>
+   <g id="patch_71">
+    <path d="M 608.640945 48.9888 
+L 647.520945 48.9888 
+L 647.520945 73.4832 
+L 608.640945 73.4832 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #f1f8e9"/>
+   </g>
+   <g id="patch_72">
+    <path d="M 998.340945 50.7384 
+L 1048.10126 50.7384 
+L 1048.10126 71.7336 
+L 998.340945 71.7336 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_73">
+    <path d="M 1048.10126 50.7384 
+L 1147.62189 50.7384 
+L 1147.62189 71.7336 
+L 1048.10126 71.7336 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_74">
+    <path d="M 608.640945 78.1488 
+L 647.520945 78.1488 
+L 647.520945 102.6432 
+L 608.640945 102.6432 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #f1f8e9"/>
+   </g>
+   <g id="patch_75">
+    <path d="M 998.340945 79.8984 
+L 1097.861575 79.8984 
+L 1097.861575 100.8936 
+L 998.340945 100.8936 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_76">
+    <path d="M 1097.861575 79.8984 
+L 1147.62189 79.8984 
+L 1147.62189 100.8936 
+L 1097.861575 100.8936 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_77">
+    <path d="M 608.640945 107.3088 
+L 647.520945 107.3088 
+L 647.520945 131.8032 
+L 608.640945 131.8032 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #f1f8e9"/>
+   </g>
+   <g id="patch_78">
+    <path d="M 998.340945 109.0584 
+L 1117.765701 109.0584 
+L 1117.765701 130.0536 
+L 998.340945 130.0536 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_79">
+    <path d="M 1117.765701 109.0584 
+L 1147.62189 109.0584 
+L 1147.62189 130.0536 
+L 1117.765701 130.0536 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_80">
+    <path d="M 608.640945 136.4688 
+L 647.520945 136.4688 
+L 647.520945 160.9632 
+L 608.640945 160.9632 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #f1f8e9"/>
+   </g>
+   <g id="patch_81">
+    <path d="M 998.340945 138.2184 
+L 1137.669827 138.2184 
+L 1137.669827 159.2136 
+L 998.340945 159.2136 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_82">
+    <path d="M 1137.669827 138.2184 
+L 1147.62189 138.2184 
+L 1147.62189 159.2136 
+L 1137.669827 159.2136 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_83">
+    <path d="M 608.640945 165.6288 
+L 647.520945 165.6288 
+L 647.520945 190.1232 
+L 608.640945 190.1232 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #f1f8e9"/>
+   </g>
+   <g id="patch_84">
+    <path d="M 998.340945 167.3784 
+L 1068.005386 167.3784 
+L 1068.005386 188.3736 
+L 998.340945 188.3736 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_85">
+    <path d="M 1068.005386 167.3784 
+L 1147.62189 167.3784 
+L 1147.62189 188.3736 
+L 1068.005386 188.3736 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_86">
+    <path d="M 608.640945 194.7888 
+L 647.520945 194.7888 
+L 647.520945 219.2832 
+L 608.640945 219.2832 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #f1f8e9"/>
+   </g>
+   <g id="patch_87">
+    <path d="M 998.340945 196.5384 
+L 1137.669827 196.5384 
+L 1137.669827 217.5336 
+L 998.340945 217.5336 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_88">
+    <path d="M 1137.669827 196.5384 
+L 1147.62189 196.5384 
+L 1147.62189 217.5336 
+L 1137.669827 217.5336 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_89">
+    <path d="M 608.640945 223.9488 
+L 647.520945 223.9488 
+L 647.520945 248.4432 
+L 608.640945 248.4432 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #f1f8e9"/>
+   </g>
+   <g id="patch_90">
+    <path d="M 998.340945 225.6984 
+L 1068.005386 225.6984 
+L 1068.005386 246.6936 
+L 998.340945 246.6936 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_91">
+    <path d="M 1068.005386 225.6984 
+L 1147.62189 225.6984 
+L 1147.62189 246.6936 
+L 1068.005386 246.6936 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_92">
+    <path d="M 608.640945 253.1088 
+L 647.520945 253.1088 
+L 647.520945 277.6032 
+L 608.640945 277.6032 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #ffe8cc"/>
+   </g>
+   <g id="patch_93">
+    <path d="M 998.340945 254.8584 
+L 1147.62189 254.8584 
+L 1147.62189 275.8536 
+L 998.340945 275.8536 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_94">
+    <path d="M 1147.62189 254.8584 
+L 1147.62189 254.8584 
+L 1147.62189 275.8536 
+L 1147.62189 275.8536 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_95">
+    <path d="M 608.640945 282.2688 
+L 647.520945 282.2688 
+L 647.520945 306.7632 
+L 608.640945 306.7632 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #ffe8cc"/>
+   </g>
+   <g id="patch_96">
+    <path d="M 998.340945 284.0184 
+L 1137.669827 284.0184 
+L 1137.669827 305.0136 
+L 998.340945 305.0136 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_97">
+    <path d="M 1137.669827 284.0184 
+L 1147.62189 284.0184 
+L 1147.62189 305.0136 
+L 1137.669827 305.0136 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_98">
+    <path d="M 608.640945 311.4288 
+L 647.520945 311.4288 
+L 647.520945 335.9232 
+L 608.640945 335.9232 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #ffe8cc"/>
+   </g>
+   <g id="patch_99">
+    <path d="M 998.340945 313.1784 
+L 1137.669827 313.1784 
+L 1137.669827 334.1736 
+L 998.340945 334.1736 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_100">
+    <path d="M 1137.669827 313.1784 
+L 1147.62189 313.1784 
+L 1147.62189 334.1736 
+L 1137.669827 334.1736 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_101">
+    <path d="M 608.640945 340.5888 
+L 647.520945 340.5888 
+L 647.520945 365.0832 
+L 608.640945 365.0832 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #ffe8cc"/>
+   </g>
+   <g id="patch_102">
+    <path d="M 998.340945 342.3384 
+L 1147.62189 342.3384 
+L 1147.62189 363.3336 
+L 998.340945 363.3336 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_103">
+    <path d="M 1147.62189 342.3384 
+L 1147.62189 342.3384 
+L 1147.62189 363.3336 
+L 1147.62189 363.3336 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_104">
+    <path d="M 608.640945 369.7488 
+L 647.520945 369.7488 
+L 647.520945 394.2432 
+L 608.640945 394.2432 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #ffe8cc"/>
+   </g>
+   <g id="patch_105">
+    <path d="M 998.340945 371.4984 
+L 1137.669827 371.4984 
+L 1137.669827 392.4936 
+L 998.340945 392.4936 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_106">
+    <path d="M 1137.669827 371.4984 
+L 1147.62189 371.4984 
+L 1147.62189 392.4936 
+L 1137.669827 392.4936 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_107">
+    <path d="M 608.640945 398.9088 
+L 647.520945 398.9088 
+L 647.520945 423.4032 
+L 608.640945 423.4032 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #ffe8cc"/>
+   </g>
+   <g id="patch_108">
+    <path d="M 998.340945 400.6584 
+L 1147.62189 400.6584 
+L 1147.62189 421.6536 
+L 998.340945 421.6536 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_109">
+    <path d="M 1147.62189 400.6584 
+L 1147.62189 400.6584 
+L 1147.62189 421.6536 
+L 1147.62189 421.6536 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_110">
+    <path d="M 608.640945 428.0688 
+L 647.520945 428.0688 
+L 647.520945 452.5632 
+L 608.640945 452.5632 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #fde0dd"/>
+   </g>
+   <g id="patch_111">
+    <path d="M 998.340945 429.8184 
+L 1127.717764 429.8184 
+L 1127.717764 450.8136 
+L 998.340945 450.8136 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_112">
+    <path d="M 1127.717764 429.8184 
+L 1147.62189 429.8184 
+L 1147.62189 450.8136 
+L 1127.717764 450.8136 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_113">
+    <path d="M 608.640945 457.2288 
+L 647.520945 457.2288 
+L 647.520945 481.7232 
+L 608.640945 481.7232 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #fde0dd"/>
+   </g>
+   <g id="patch_114">
+    <path d="M 998.340945 458.9784 
+L 1127.717764 458.9784 
+L 1127.717764 479.9736 
+L 998.340945 479.9736 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_115">
+    <path d="M 1127.717764 458.9784 
+L 1147.62189 458.9784 
+L 1147.62189 479.9736 
+L 1127.717764 479.9736 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_116">
+    <path d="M 608.640945 486.3888 
+L 647.520945 486.3888 
+L 647.520945 510.8832 
+L 608.640945 510.8832 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #fde0dd"/>
+   </g>
+   <g id="patch_117">
+    <path d="M 998.340945 488.1384 
+L 1137.669827 488.1384 
+L 1137.669827 509.1336 
+L 998.340945 509.1336 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_118">
+    <path d="M 1137.669827 488.1384 
+L 1147.62189 488.1384 
+L 1147.62189 509.1336 
+L 1137.669827 509.1336 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_119">
+    <path d="M 608.640945 515.5488 
+L 647.520945 515.5488 
+L 647.520945 540.0432 
+L 608.640945 540.0432 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #fde0dd"/>
+   </g>
+   <g id="patch_120">
+    <path d="M 998.340945 517.2984 
+L 1097.861575 517.2984 
+L 1097.861575 538.2936 
+L 998.340945 538.2936 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_121">
+    <path d="M 1097.861575 517.2984 
+L 1147.62189 517.2984 
+L 1147.62189 538.2936 
+L 1097.861575 538.2936 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_122">
+    <path d="M 608.640945 544.7088 
+L 647.520945 544.7088 
+L 647.520945 569.2032 
+L 608.640945 569.2032 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #fde0dd"/>
+   </g>
+   <g id="patch_123">
+    <path d="M 998.340945 546.4584 
+L 1127.717764 546.4584 
+L 1127.717764 567.4536 
+L 998.340945 567.4536 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_124">
+    <path d="M 1127.717764 546.4584 
+L 1147.62189 546.4584 
+L 1147.62189 567.4536 
+L 1127.717764 567.4536 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_125">
+    <path d="M 608.640945 580.284 
+L 1184.88189 580.284 
+L 1184.88189 618.192 
+L 608.640945 618.192 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #fdecec"/>
+   </g>
+   <g id="patch_126">
+    <path d="M 608.640945 629.2728 
+L 647.520945 629.2728 
+L 647.520945 653.7672 
+L 608.640945 653.7672 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #fde0dd"/>
+   </g>
+   <g id="patch_127">
+    <path d="M 998.340945 631.0224 
+L 1107.813638 631.0224 
+L 1107.813638 652.0176 
+L 998.340945 652.0176 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_128">
+    <path d="M 1107.813638 631.0224 
+L 1147.62189 631.0224 
+L 1147.62189 652.0176 
+L 1107.813638 652.0176 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_129">
+    <path d="M 608.640945 658.4328 
+L 647.520945 658.4328 
+L 647.520945 682.9272 
+L 608.640945 682.9272 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #e8daef"/>
+   </g>
+   <g id="patch_130">
+    <path d="M 998.340945 660.1824 
+L 1147.62189 660.1824 
+L 1147.62189 681.1776 
+L 998.340945 681.1776 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_131">
+    <path d="M 1147.62189 660.1824 
+L 1147.62189 660.1824 
+L 1147.62189 681.1776 
+L 1147.62189 681.1776 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_132">
+    <path d="M 608.640945 687.5928 
+L 647.520945 687.5928 
+L 647.520945 712.0872 
+L 608.640945 712.0872 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #e8daef"/>
+   </g>
+   <g id="patch_133">
+    <path d="M 998.340945 689.3424 
+L 1137.669827 689.3424 
+L 1137.669827 710.3376 
+L 998.340945 710.3376 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_134">
+    <path d="M 1137.669827 689.3424 
+L 1147.62189 689.3424 
+L 1147.62189 710.3376 
+L 1137.669827 710.3376 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="patch_135">
+    <path d="M 608.640945 716.7528 
+L 647.520945 716.7528 
+L 647.520945 741.2472 
+L 608.640945 741.2472 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #e8daef"/>
+   </g>
+   <g id="patch_136">
+    <path d="M 998.340945 718.5024 
+L 1127.717764 718.5024 
+L 1127.717764 739.4976 
+L 998.340945 739.4976 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #955910"/>
+   </g>
+   <g id="patch_137">
+    <path d="M 1127.717764 718.5024 
+L 1147.62189 718.5024 
+L 1147.62189 739.4976 
+L 1127.717764 739.4976 
+z
+" clip-path="url(#pbbe17620ba)" style="fill: #1a7e76"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 0 37.908 
+L 576.240945 37.908 
+" clip-path="url(#pbbe17620ba)" style="fill: none; stroke: #7f7f7f; stroke-width: 4"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 0 239.112 
+L 576.240945 239.112 
+" clip-path="url(#pbbe17620ba)" style="fill: none; stroke: #4a90d9; stroke-width: 4"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 608.640945 37.908 
+L 1184.88189 37.908 
+" clip-path="url(#pbbe17620ba)" style="fill: none; stroke: #e08a3c; stroke-width: 4"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 608.640945 618.192 
+L 1184.88189 618.192 
+" clip-path="url(#pbbe17620ba)" style="fill: none; stroke: #c0392b; stroke-width: 4"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 25px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="8.64" y="24.557516" transform="rotate(-0 8.64 24.557516)">OD-Valid</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 21px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="567.600945" y="23.998922" transform="rotate(-0 567.600945 23.998922)">5 species</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="19.44" y="66.040687" transform="rotate(-0 19.44 66.040687)">L0</text>
+   </g>
+   <g id="text_4">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="48.96" y="66.380883" transform="rotate(-0 48.96 66.380883)">Actinidia arguta</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="385.38" y="65.800453" transform="rotate(-0 385.38 65.800453)">37</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="569.040945" y="66.401039" transform="rotate(-0 569.040945 66.401039)">0</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="19.44" y="95.200687" transform="rotate(-0 19.44 95.200687)">L0</text>
+   </g>
+   <g id="text_8">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="48.96" y="95.561039" transform="rotate(-0 48.96 95.561039)">Malus hupehensis</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="385.38" y="94.960453" transform="rotate(-0 385.38 94.960453)">41</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="569.040945" y="95.561039" transform="rotate(-0 569.040945 95.561039)">4</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="19.44" y="124.360688" transform="rotate(-0 19.44 124.360688)">L0</text>
+   </g>
+   <g id="text_12">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="48.96" y="124.721039" transform="rotate(-0 48.96 124.721039)">Malus spontanea</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="385.38" y="124.120453" transform="rotate(-0 385.38 124.120453)">40</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="569.040945" y="124.721039" transform="rotate(-0 569.040945 124.721039)">5</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="19.44" y="153.520688" transform="rotate(-0 19.44 153.520688)">L0</text>
+   </g>
+   <g id="text_16">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="48.96" y="153.860883" transform="rotate(-0 48.96 153.860883)">Malus toringoides</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="385.38" y="153.280453" transform="rotate(-0 385.38 153.280453)">9</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="569.040945" y="153.881039" transform="rotate(-0 569.040945 153.881039)">5</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="19.44" y="182.680687" transform="rotate(-0 19.44 182.680687)">L0</text>
+   </g>
+   <g id="text_20">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="48.96" y="183.020883" transform="rotate(-0 48.96 183.020883)">Vitis vinifera</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="385.38" y="182.440453" transform="rotate(-0 385.38 182.440453)">11</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="569.040945" y="183.041039" transform="rotate(-0 569.040945 183.041039)">9</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 25px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="8.64" y="225.761516" transform="rotate(-0 8.64 225.761516)">T-MAWP</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 21px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="567.600945" y="225.202922" transform="rotate(-0 567.600945 225.202922)">17 species</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="19.44" y="267.244687" transform="rotate(-0 19.44 267.244687)">L1</text>
+   </g>
+   <g id="text_26">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="48.96" y="267.605039" transform="rotate(-0 48.96 267.605039)">Actinidia coriacea</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="385.38" y="267.004453" transform="rotate(-0 385.38 267.004453)">37</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="569.040945" y="267.605039" transform="rotate(-0 569.040945 267.605039)">3</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="19.44" y="296.404688" transform="rotate(-0 19.44 296.404688)">L1</text>
+   </g>
+   <g id="text_30">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="48.96" y="296.765039" transform="rotate(-0 48.96 296.765039)">Malus domestica</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="385.38" y="296.164453" transform="rotate(-0 385.38 296.164453)">45</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="569.040945" y="296.765039" transform="rotate(-0 569.040945 296.765039)">2</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="19.44" y="325.564687" transform="rotate(-0 19.44 325.564687)">L1</text>
+   </g>
+   <g id="text_34">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="48.96" y="325.925039" transform="rotate(-0 48.96 325.925039)">Prunus Tai-Haku</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="385.38" y="325.324453" transform="rotate(-0 385.38 325.324453)">47</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="569.040945" y="325.925039" transform="rotate(-0 569.040945 325.925039)">4</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="19.44" y="354.724688" transform="rotate(-0 19.44 354.724688)">L1</text>
+   </g>
+   <g id="text_38">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="48.96" y="355.085039" transform="rotate(-0 48.96 355.085039)">Prunus maritima</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="385.38" y="354.484453" transform="rotate(-0 385.38 354.484453)">12</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="569.040945" y="355.085039" transform="rotate(-0 569.040945 355.085039)">15</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="19.44" y="383.884687" transform="rotate(-0 19.44 383.884687)">L1</text>
+   </g>
+   <g id="text_42">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="48.96" y="384.204727" transform="rotate(-0 48.96 384.204727)">Prunus sargentii</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="385.38" y="383.644453" transform="rotate(-0 385.38 383.644453)">18</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="569.040945" y="384.245039" transform="rotate(-0 569.040945 384.245039)">7</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="19.44" y="413.044688" transform="rotate(-0 19.44 413.044688)">L1</text>
+   </g>
+   <g id="text_46">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="48.96" y="413.405039" transform="rotate(-0 48.96 413.405039)">Prunus subhirtella</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="385.38" y="412.804453" transform="rotate(-0 385.38 412.804453)">20</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="569.040945" y="413.405039" transform="rotate(-0 569.040945 413.405039)">8</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="19.44" y="442.204687" transform="rotate(-0 19.44 442.204687)">L1</text>
+   </g>
+   <g id="text_50">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="48.96" y="442.565039" transform="rotate(-0 48.96 442.565039)">Rosa Radtkopink</text>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="385.38" y="441.964453" transform="rotate(-0 385.38 441.964453)">12</text>
+   </g>
+   <g id="text_52">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="569.040945" y="442.565039" transform="rotate(-0 569.040945 442.565039)">1</text>
+   </g>
+   <g id="text_53">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="19.44" y="471.364688" transform="rotate(-0 19.44 471.364688)">L1</text>
+   </g>
+   <g id="text_54">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="48.96" y="471.704883" transform="rotate(-0 48.96 471.704883)">Rosa centifolia</text>
+   </g>
+   <g id="text_55">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="385.38" y="471.124453" transform="rotate(-0 385.38 471.124453)">10</text>
+   </g>
+   <g id="text_56">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="569.040945" y="471.725039" transform="rotate(-0 569.040945 471.725039)">13</text>
+   </g>
+   <g id="text_57">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="19.44" y="500.524688" transform="rotate(-0 19.44 500.524688)">L1</text>
+   </g>
+   <g id="text_58">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="48.96" y="500.885039" transform="rotate(-0 48.96 500.885039)">Rosa chuckles</text>
+   </g>
+   <g id="text_59">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="385.38" y="500.284453" transform="rotate(-0 385.38 500.284453)">29</text>
+   </g>
+   <g id="text_60">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="569.040945" y="500.885039" transform="rotate(-0 569.040945 500.885039)">2</text>
+   </g>
+   <g id="text_61">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="19.44" y="529.684687" transform="rotate(-0 19.44 529.684687)">L1</text>
+   </g>
+   <g id="text_62">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="48.96" y="530.045039" transform="rotate(-0 48.96 530.045039)">Vitis empire</text>
+   </g>
+   <g id="text_63">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="385.38" y="529.444453" transform="rotate(-0 385.38 529.444453)">9</text>
+   </g>
+   <g id="text_64">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="569.040945" y="530.045039" transform="rotate(-0 569.040945 530.045039)">3</text>
+   </g>
+   <g id="text_65">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="19.44" y="558.844687" transform="rotate(-0 19.44 558.844687)">L1</text>
+   </g>
+   <g id="text_66">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="48.96" y="559.205039" transform="rotate(-0 48.96 559.205039)">Vitis riparia</text>
+   </g>
+   <g id="text_67">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="385.38" y="558.604453" transform="rotate(-0 385.38 558.604453)">33</text>
+   </g>
+   <g id="text_68">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="569.040945" y="559.205039" transform="rotate(-0 569.040945 559.205039)">8</text>
+   </g>
+   <g id="text_69">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="19.44" y="588.004688" transform="rotate(-0 19.44 588.004688)">L2</text>
+   </g>
+   <g id="text_70">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="48.96" y="588.324727" transform="rotate(-0 48.96 588.324727)">Fagus crenata</text>
+   </g>
+   <g id="text_71">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="385.38" y="587.764453" transform="rotate(-0 385.38 587.764453)">17</text>
+   </g>
+   <g id="text_72">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="569.040945" y="588.365039" transform="rotate(-0 569.040945 588.365039)">13</text>
+   </g>
+   <g id="text_73">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="19.44" y="617.164688" transform="rotate(-0 19.44 617.164688)">L2</text>
+   </g>
+   <g id="text_74">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="48.96" y="617.504883" transform="rotate(-0 48.96 617.504883)">Amelanchier sanguinea</text>
+   </g>
+   <g id="text_75">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="385.38" y="616.924453" transform="rotate(-0 385.38 616.924453)">32</text>
+   </g>
+   <g id="text_76">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="569.040945" y="617.525039" transform="rotate(-0 569.040945 617.525039)">9</text>
+   </g>
+   <g id="text_77">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="19.44" y="646.324687" transform="rotate(-0 19.44 646.324687)">L3</text>
+   </g>
+   <g id="text_78">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="48.96" y="646.685039" transform="rotate(-0 48.96 646.685039)">Rhododendron Roseum Superbum</text>
+   </g>
+   <g id="text_79">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="385.38" y="646.084453" transform="rotate(-0 385.38 646.084453)">32</text>
+   </g>
+   <g id="text_80">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="569.040945" y="646.685039" transform="rotate(-0 569.040945 646.685039)">5</text>
+   </g>
+   <g id="text_81">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="19.44" y="675.484687" transform="rotate(-0 19.44 675.484687)">L4</text>
+   </g>
+   <g id="text_82">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="48.96" y="675.845039" transform="rotate(-0 48.96 675.845039)">Populus tremula</text>
+   </g>
+   <g id="text_83">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="385.38" y="675.244453" transform="rotate(-0 385.38 675.244453)">40</text>
+   </g>
+   <g id="text_84">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="569.040945" y="675.845039" transform="rotate(-0 569.040945 675.845039)">13</text>
+   </g>
+   <g id="text_85">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="19.44" y="704.644688" transform="rotate(-0 19.44 704.644688)">L4</text>
+   </g>
+   <g id="text_86">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="48.96" y="705.005039" transform="rotate(-0 48.96 705.005039)">Populus tremuloides</text>
+   </g>
+   <g id="text_87">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="385.38" y="704.404453" transform="rotate(-0 385.38 704.404453)">23</text>
+   </g>
+   <g id="text_88">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="569.040945" y="705.005039" transform="rotate(-0 569.040945 705.005039)">12</text>
+   </g>
+   <g id="text_89">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="19.44" y="733.804688" transform="rotate(-0 19.44 733.804688)">L4</text>
+   </g>
+   <g id="text_90">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="48.96" y="734.165039" transform="rotate(-0 48.96 734.165039)">Populus trichocarpa</text>
+   </g>
+   <g id="text_91">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="385.38" y="733.564453" transform="rotate(-0 385.38 733.564453)">40</text>
+   </g>
+   <g id="text_92">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="569.040945" y="734.165039" transform="rotate(-0 569.040945 734.165039)">7</text>
+   </g>
+   <g id="text_93">
+    <text style="font-weight: 700; font-size: 25px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="617.280945" y="24.557516" transform="rotate(-0 617.280945 24.557516)">T-MSWP</text>
+   </g>
+   <g id="text_94">
+    <text style="font-size: 21px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="1176.24189" y="23.998922" transform="rotate(-0 1176.24189 23.998922)">18 species</text>
+   </g>
+   <g id="text_95">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="628.080945" y="66.040687" transform="rotate(-0 628.080945 66.040687)">L1</text>
+   </g>
+   <g id="text_96">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="657.600945" y="66.401039" transform="rotate(-0 657.600945 66.401039)">Quercus michauxii Nutt.</text>
+   </g>
+   <g id="text_97">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="994.020945" y="65.800453" transform="rotate(-0 994.020945 65.800453)">129</text>
+   </g>
+   <g id="text_98">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="1177.68189" y="66.401039" transform="rotate(-0 1177.68189 66.401039)">5</text>
+   </g>
+   <g id="text_99">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="628.080945" y="95.200687" transform="rotate(-0 628.080945 95.200687)">L1</text>
+   </g>
+   <g id="text_100">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="657.600945" y="95.520727" transform="rotate(-0 657.600945 95.520727)">Quercus nigra L.</text>
+   </g>
+   <g id="text_101">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="994.020945" y="94.960453" transform="rotate(-0 994.020945 94.960453)">500</text>
+   </g>
+   <g id="text_102">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="1177.68189" y="95.561039" transform="rotate(-0 1177.68189 95.561039)">10</text>
+   </g>
+   <g id="text_103">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="628.080945" y="124.360688" transform="rotate(-0 628.080945 124.360688)">L1</text>
+   </g>
+   <g id="text_104">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="657.600945" y="124.700883" transform="rotate(-0 657.600945 124.700883)">Quercus pagoda Raf.</text>
+   </g>
+   <g id="text_105">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="994.020945" y="124.120453" transform="rotate(-0 994.020945 124.120453)">286</text>
+   </g>
+   <g id="text_106">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="1177.68189" y="124.721039" transform="rotate(-0 1177.68189 124.721039)">12</text>
+   </g>
+   <g id="text_107">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="628.080945" y="153.520688" transform="rotate(-0 628.080945 153.520688)">L1</text>
+   </g>
+   <g id="text_108">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="657.600945" y="153.881039" transform="rotate(-0 657.600945 153.881039)">Quercus phellos L.</text>
+   </g>
+   <g id="text_109">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="994.020945" y="153.280453" transform="rotate(-0 994.020945 153.280453)">568</text>
+   </g>
+   <g id="text_110">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="1177.68189" y="153.881039" transform="rotate(-0 1177.68189 153.881039)">14</text>
+   </g>
+   <g id="text_111">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="628.080945" y="182.680687" transform="rotate(-0 628.080945 182.680687)">L1</text>
+   </g>
+   <g id="text_112">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="657.600945" y="183.020883" transform="rotate(-0 657.600945 183.020883)">Quercus shumardii Buckley</text>
+   </g>
+   <g id="text_113">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="994.020945" y="182.440453" transform="rotate(-0 994.020945 182.440453)">1348</text>
+   </g>
+   <g id="text_114">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="1177.68189" y="183.041039" transform="rotate(-0 1177.68189 183.041039)">7</text>
+   </g>
+   <g id="text_115">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="628.080945" y="211.840688" transform="rotate(-0 628.080945 211.840688)">L1</text>
+   </g>
+   <g id="text_116">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="657.600945" y="212.180883" transform="rotate(-0 657.600945 212.180883)">Quercus stellata Wangenh.</text>
+   </g>
+   <g id="text_117">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="994.020945" y="211.600453" transform="rotate(-0 994.020945 211.600453)">96</text>
+   </g>
+   <g id="text_118">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="1177.68189" y="212.201039" transform="rotate(-0 1177.68189 212.201039)">14</text>
+   </g>
+   <g id="text_119">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="628.080945" y="241.000688" transform="rotate(-0 628.080945 241.000688)">L1</text>
+   </g>
+   <g id="text_120">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="657.600945" y="241.340883" transform="rotate(-0 657.600945 241.340883)">Quercus texana Buckley</text>
+   </g>
+   <g id="text_121">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="994.020945" y="240.760453" transform="rotate(-0 994.020945 240.760453)">2434</text>
+   </g>
+   <g id="text_122">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="1177.68189" y="241.361039" transform="rotate(-0 1177.68189 241.361039)">7</text>
+   </g>
+   <g id="text_123">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="628.080945" y="270.160687" transform="rotate(-0 628.080945 270.160687)">L3</text>
+   </g>
+   <g id="text_124">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="657.600945" y="270.521039" transform="rotate(-0 657.600945 270.521039)">Acer rubrum L.</text>
+   </g>
+   <g id="text_125">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="994.020945" y="269.920453" transform="rotate(-0 994.020945 269.920453)">100</text>
+   </g>
+   <g id="text_126">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="1177.68189" y="270.521039" transform="rotate(-0 1177.68189 270.521039)">15</text>
+   </g>
+   <g id="text_127">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="628.080945" y="299.320687" transform="rotate(-0 628.080945 299.320687)">L3</text>
+   </g>
+   <g id="text_128">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="657.600945" y="299.660883" transform="rotate(-0 657.600945 299.660883)">Carya ovata (Mill.) K. Koch</text>
+   </g>
+   <g id="text_129">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="994.020945" y="299.080453" transform="rotate(-0 994.020945 299.080453)">91</text>
+   </g>
+   <g id="text_130">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="1177.68189" y="299.681039" transform="rotate(-0 1177.68189 299.681039)">14</text>
+   </g>
+   <g id="text_131">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="628.080945" y="328.480687" transform="rotate(-0 628.080945 328.480687)">L3</text>
+   </g>
+   <g id="text_132">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="657.600945" y="328.820883" transform="rotate(-0 657.600945 328.820883)">Nyssa sylvatica Marshall</text>
+   </g>
+   <g id="text_133">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="994.020945" y="328.240453" transform="rotate(-0 994.020945 328.240453)">50</text>
+   </g>
+   <g id="text_134">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="1177.68189" y="328.841039" transform="rotate(-0 1177.68189 328.841039)">14</text>
+   </g>
+   <g id="text_135">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="628.080945" y="357.640688" transform="rotate(-0 628.080945 357.640688)">L3</text>
+   </g>
+   <g id="text_136">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="657.600945" y="358.001039" transform="rotate(-0 657.600945 358.001039)">Ulmus alata Michx.</text>
+   </g>
+   <g id="text_137">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="994.020945" y="357.400453" transform="rotate(-0 994.020945 357.400453)">205</text>
+   </g>
+   <g id="text_138">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="1177.68189" y="358.001039" transform="rotate(-0 1177.68189 358.001039)">15</text>
+   </g>
+   <g id="text_139">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="628.080945" y="386.800687" transform="rotate(-0 628.080945 386.800687)">L3</text>
+   </g>
+   <g id="text_140">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="657.600945" y="387.161039" transform="rotate(-0 657.600945 387.161039)">Ulmus americana Planch</text>
+   </g>
+   <g id="text_141">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="994.020945" y="386.560453" transform="rotate(-0 994.020945 386.560453)">185</text>
+   </g>
+   <g id="text_142">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="1177.68189" y="387.161039" transform="rotate(-0 1177.68189 387.161039)">14</text>
+   </g>
+   <g id="text_143">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="628.080945" y="415.960688" transform="rotate(-0 628.080945 415.960688)">L3</text>
+   </g>
+   <g id="text_144">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="657.600945" y="416.321039" transform="rotate(-0 657.600945 416.321039)">Vaccinium stamineum L.</text>
+   </g>
+   <g id="text_145">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="994.020945" y="415.720453" transform="rotate(-0 994.020945 415.720453)">75</text>
+   </g>
+   <g id="text_146">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="1177.68189" y="416.321039" transform="rotate(-0 1177.68189 416.321039)">15</text>
+   </g>
+   <g id="text_147">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="628.080945" y="445.120687" transform="rotate(-0 628.080945 445.120687)">L4</text>
+   </g>
+   <g id="text_148">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="657.600945" y="445.481039" transform="rotate(-0 657.600945 445.481039)">Dirca palustris L.</text>
+   </g>
+   <g id="text_149">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="994.020945" y="444.880453" transform="rotate(-0 994.020945 444.880453)">65</text>
+   </g>
+   <g id="text_150">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="1177.68189" y="445.481039" transform="rotate(-0 1177.68189 445.481039)">13</text>
+   </g>
+   <g id="text_151">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="628.080945" y="474.280688" transform="rotate(-0 628.080945 474.280688)">L4</text>
+   </g>
+   <g id="text_152">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="657.600945" y="474.641039" transform="rotate(-0 657.600945 474.641039)">Fraxinus caroliniana Miller</text>
+   </g>
+   <g id="text_153">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="994.020945" y="474.040453" transform="rotate(-0 994.020945 474.040453)">100</text>
+   </g>
+   <g id="text_154">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="1177.68189" y="474.641039" transform="rotate(-0 1177.68189 474.641039)">13</text>
+   </g>
+   <g id="text_155">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="628.080945" y="503.440688" transform="rotate(-0 628.080945 503.440688)">L4</text>
+   </g>
+   <g id="text_156">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="657.600945" y="503.801039" transform="rotate(-0 657.600945 503.801039)">Ilex opaca Aiton</text>
+   </g>
+   <g id="text_157">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="994.020945" y="503.200453" transform="rotate(-0 994.020945 503.200453)">100</text>
+   </g>
+   <g id="text_158">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="1177.68189" y="503.801039" transform="rotate(-0 1177.68189 503.801039)">14</text>
+   </g>
+   <g id="text_159">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="628.080945" y="532.600688" transform="rotate(-0 628.080945 532.600688)">L4</text>
+   </g>
+   <g id="text_160">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="657.600945" y="532.961039" transform="rotate(-0 657.600945 532.961039)">Populus L.</text>
+   </g>
+   <g id="text_161">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="994.020945" y="532.360453" transform="rotate(-0 994.020945 532.360453)">3065</text>
+   </g>
+   <g id="text_162">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="1177.68189" y="532.961039" transform="rotate(-0 1177.68189 532.961039)">10</text>
+   </g>
+   <g id="text_163">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="628.080945" y="561.760688" transform="rotate(-0 628.080945 561.760688)">L4</text>
+   </g>
+   <g id="text_164">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="657.600945" y="562.121039" transform="rotate(-0 657.600945 562.121039)">Salix L.</text>
+   </g>
+   <g id="text_165">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="994.020945" y="561.520453" transform="rotate(-0 994.020945 561.520453)">82</text>
+   </g>
+   <g id="text_166">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="1177.68189" y="562.121039" transform="rotate(-0 1177.68189 562.121039)">13</text>
+   </g>
+   <g id="text_167">
+    <text style="font-weight: 700; font-size: 25px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="617.280945" y="604.841516" transform="rotate(-0 617.280945 604.841516)">T-GSH</text>
+   </g>
+   <g id="text_168">
+    <text style="font-size: 21px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="1176.24189" y="604.282922" transform="rotate(-0 1176.24189 604.282922)">4 species</text>
+   </g>
+   <g id="text_169">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="628.080945" y="646.324688" transform="rotate(-0 628.080945 646.324688)">L4</text>
+   </g>
+   <g id="text_170">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="657.600945" y="646.664883" transform="rotate(-0 657.600945 646.664883)">Populus balsamifera</text>
+   </g>
+   <g id="text_171">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="994.020945" y="646.084453" transform="rotate(-0 994.020945 646.084453)">113</text>
+   </g>
+   <g id="text_172">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="1177.68189" y="646.685039" transform="rotate(-0 1177.68189 646.685039)">11</text>
+   </g>
+   <g id="text_173">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="628.080945" y="675.484688" transform="rotate(-0 628.080945 675.484688)">L5</text>
+   </g>
+   <g id="text_174">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="657.600945" y="675.845039" transform="rotate(-0 657.600945 675.845039)">Triticum aestivum</text>
+   </g>
+   <g id="text_175">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="994.020945" y="675.244453" transform="rotate(-0 994.020945 675.244453)">348</text>
+   </g>
+   <g id="text_176">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="1177.68189" y="675.845039" transform="rotate(-0 1177.68189 675.845039)">15</text>
+   </g>
+   <g id="text_177">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="628.080945" y="704.644688" transform="rotate(-0 628.080945 704.644688)">L5</text>
+   </g>
+   <g id="text_178">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="657.600945" y="704.984883" transform="rotate(-0 657.600945 704.984883)">Hordeum vulgare</text>
+   </g>
+   <g id="text_179">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="994.020945" y="704.404453" transform="rotate(-0 994.020945 704.404453)">542</text>
+   </g>
+   <g id="text_180">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="1177.68189" y="705.005039" transform="rotate(-0 1177.68189 705.005039)">14</text>
+   </g>
+   <g id="text_181">
+    <text style="font-size: 20px; font-family: 'Times New Roman'; text-anchor: middle; fill: #222222" x="628.080945" y="733.804688" transform="rotate(-0 628.080945 733.804688)">L5</text>
+   </g>
+   <g id="text_182">
+    <text style="font-style: italic; font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #222222" x="657.600945" y="734.124727" transform="rotate(-0 657.600945 734.124727)">Zea mays</text>
+   </g>
+   <g id="text_183">
+    <text style="font-size: 19px; font-family: 'Times New Roman'; text-anchor: end; fill: #5e5e5e" x="994.020945" y="733.564453" transform="rotate(-0 994.020945 733.564453)">927</text>
+   </g>
+   <g id="text_184">
+    <text style="font-size: 21.5px; font-family: 'Times New Roman'; text-anchor: end; fill: #222222" x="1177.68189" y="734.165039" transform="rotate(-0 1177.68189 734.165039)">13</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pbbe17620ba">
+   <rect x="0" y="0" width="1184.88189" height="743.58"/>
+  </clipPath>
+ </defs>
+</svg>
